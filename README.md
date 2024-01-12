@@ -17,8 +17,8 @@
 - [x] [Android](./Android/README.md)
 - [x] [C++](./C++/README.md)
 - [x] [C语言](./C语言/README.md)
-- [ ] [Java](./Java/README.md)
-- [ ] [Linux](./Linux/README.md)
-- [ ] [Solidworks](./Solidworks/README.md)
-- [ ] [Windows](./Windows/README.md)
+- [x] [Java](./Java/README.md)
+- [x] [Linux](./Linux/README.md)
+- [x] [Solidworks](./Solidworks/README.md)
+- [x] [Windows](./Windows/README.md)
 
